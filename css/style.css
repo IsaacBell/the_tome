@@ -6,8 +6,8 @@ html,body {
 body {
   background: url('https://storage.googleapis.com/planets/spiral-staircase.jpg') no-repeat;
   background-size: 100%;
-  -webkit-perspective: 550px;
-          perspective: 550px;
+  -webkit-perspective: 450px;
+          perspective: 450px;
   margin: 0;
 }
 #flip {
